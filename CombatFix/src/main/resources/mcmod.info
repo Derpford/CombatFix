@@ -1,8 +1,8 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "combatfix",
+  "name": "Combat Fix!",
+  "description": "Making Minecraft's combat less horrible.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
