@@ -11,8 +11,8 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 @Mod(modid = CombatFixMain.MODID, version = CombatFixMain.VERSION)
 public class CombatFixMain
 {
-    public static final String MODID = "examplemod";
-    public static final String VERSION = "1.0";
+    public static final String MODID = "combatfix";
+    public static final String VERSION = "1.2";
     
     public static HashMap<String, Integer> attackTimer = new HashMap<String, Integer>();
     public static HashMap<String, Integer> guardTimer = new HashMap<String, Integer>();
