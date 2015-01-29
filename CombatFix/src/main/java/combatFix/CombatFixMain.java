@@ -28,7 +28,7 @@ public class CombatFixMain
 			e.printStackTrace();
 		}
 		Method[] arrowMethods = arrowAttackClass.getMethods();
-		String arrowUpdateMethod = arrowMethods[1].getName()
+		String arrowUpdateMethod = arrowMethods[1].getName();
 		if(hasPrintedVars == 0)
 		{
 			System.out.println("Getting skeleton arrow methods!");
