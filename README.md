@@ -1,6 +1,6 @@
-CombatFix
-Making Minecraft's combat less horrible.
-
+# CombatFix
+## Making Minecraft's combat less horrible.
+---
 This mod adds two big things:
 One, it makes attacks have a cooldown of roughly 1/2 second (10 ticks).
 Two, it causes blocks to stop all damage and knock back the attacker if you block within 10 ticks of the attack connecting.
